@@ -1,0 +1,1 @@
+FROM /content/models/gte-qwen2-7b-instruct-q6_k.gguf
